@@ -12,7 +12,7 @@ Automated Product Screenshots is a Python project that utilizes the Selenium lib
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/automated-product-screenshots.git
+git clone git@github.com:OcamaAslam/Automated-Product-Screenshots.git
 ```
 2. Navigate to the project directory:
 ```bash
