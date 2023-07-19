@@ -7,7 +7,8 @@ Automated Product Screenshots is a Python project that utilizes the Selenium lib
 - Uses the Selenium library to interact with the website and perform actions programmatically.
 - Implements automated scrolling to capture all products appearing in the search results.
 - Allows customization for search keywords and the destination folder to save the captured screenshots.
-- Provides a simple and straightforward way to automate the process of capturing product screenshots for further analysis or documentation.## Installation
+- Provides a simple and straightforward way to automate the process of capturing product screenshots for further analysis or documentation.
+## Installation
 
 1. Clone the repository:
 
