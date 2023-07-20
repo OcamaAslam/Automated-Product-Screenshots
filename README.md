@@ -1,7 +1,8 @@
 
 # Automated Product Screenshots
 
-Automated Product Screenshots is a Python project that utilizes the Selenium library to access a website, perform a search, and capture screenshots of the resulting products. The project incorporates automated scrolling to ensure all products are captured.## Features
+Automated Product Screenshots is a Python project that utilizes the Selenium library to access a website, perform a search, and capture screenshots of the resulting products. The project incorporates automated scrolling to ensure all products are captured.
+## Features
 
 - Automates the process of accessing a website, performing a search, and capturing screenshots of products.
 - Uses the Selenium library to interact with the website and perform actions programmatically.
